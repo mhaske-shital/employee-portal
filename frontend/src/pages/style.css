@@ -1,0 +1,34 @@
+.dashboardImage {
+  width: 100%;
+  height: 100%;
+  min-height: 50vh;
+  background-image: url("./laptop.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.approvedImage {
+  width: 100%;
+  height: 100%;
+  background-image: url("./approved.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.viewStatusTable:hover {
+  background-color: #999999;
+}
+.atext {
+  color: black;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h5 {
+  font-size: 26px;
+  font-family: "Montserrat", sans-serif;
+}
+h4 {
+  font-weight: bold;
+  font-size: 30px;
+  color: black;
+}

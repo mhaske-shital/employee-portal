@@ -1,0 +1,46 @@
+.sb-example-1 .search {
+  width: 60%;
+  position: relative;
+  display: flex;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 200px;
+  height: auto;
+}
+.sb-example-1 .searchTerm {
+  width: 90%;
+  border: 3px solid #00b4cc;
+  border-right: none;
+  padding: 5px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: #9dbfaf;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+}
+.sb-example-1 .searchTerm:focus {
+  color: #00b4cc;
+}
+.sb-example-1 .searchButton {
+  width: 10%;
+  height: 50px;
+  border: 1px solid #00b4cc;
+  background: #00b4cc;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+  max-width: 100px;
+}
+
+.Need-Something-Div {
+  width: 60%;
+  min-width: 250px;
+  max-width: 400px;
+  margin-top: 0%;
+  margin-left: auto;
+  margin-right: auto;
+}
