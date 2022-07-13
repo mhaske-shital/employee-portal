@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65b4e769.css",
+    "main.js": "/static/js/main.c7b1e8f0.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/stopwatch.png": "/static/media/stopwatch.b0d1aeb61a54b85f146f.png",
+    "static/media/laptop.jpg": "/static/media/laptop.3697677ef28dc3c12cd2.jpg",
+    "static/media/approved.png": "/static/media/approved.e688d0d2945bddddc03b.png",
+    "index.html": "/index.html",
+    "main.65b4e769.css.map": "/static/css/main.65b4e769.css.map",
+    "main.c7b1e8f0.js.map": "/static/js/main.c7b1e8f0.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65b4e769.css",
+    "static/js/main.c7b1e8f0.js"
+  ]
+}
